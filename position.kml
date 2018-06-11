@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                               <kml xmlns="http://earth.google.com/kml/2.1">
+                               <Document>
+                               <Placemark>
+                               <name>Google Earth - Live GPS Positioning</name>
+                               <Point>
+                                 <coordinates>-3.662400,40.446165,0</coordinates>
+                               </Point>
+                               </Placemark></Document></kml>
